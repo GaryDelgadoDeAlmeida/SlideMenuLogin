@@ -1,0 +1,11 @@
+C:\Users\garya\Documents\Developpment\Application\C#\SlideMenuLogin\SlideMenuLogin\bin\Debug\SlideMenuLogin.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\SlideMenuLogin\SlideMenuLogin\bin\Debug\SlideMenuLogin.exe
+C:\Users\garya\Documents\Developpment\Application\C#\SlideMenuLogin\SlideMenuLogin\bin\Debug\SlideMenuLogin.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\SlideMenuLogin\SlideMenuLogin\obj\Debug\SlideMenuLogin.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SlideMenuLogin\SlideMenuLogin\obj\Debug\SlideMenuLogin.Form1.resources
+C:\Users\garya\Documents\Developpment\Application\C#\SlideMenuLogin\SlideMenuLogin\obj\Debug\SlideMenuLogin.Properties.Resources.resources
+C:\Users\garya\Documents\Developpment\Application\C#\SlideMenuLogin\SlideMenuLogin\obj\Debug\SlideMenuLogin.csproj.GenerateResource.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SlideMenuLogin\SlideMenuLogin\obj\Debug\SlideMenuLogin.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SlideMenuLogin\SlideMenuLogin\obj\Debug\SlideMenuLogin.exe
+C:\Users\garya\Documents\Developpment\Application\C#\SlideMenuLogin\SlideMenuLogin\obj\Debug\SlideMenuLogin.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\SlideMenuLogin\SlideMenuLogin\obj\Debug\SlideMenuLogin.Form2.resources
